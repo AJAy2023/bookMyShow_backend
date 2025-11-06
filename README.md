@@ -26,4 +26,7 @@ Building a backend system for BookMyShow using **Node.js**, **Express.js**, and 
 
 ✅ Server running successfully
 ✅ MongoDB connected
-🟡 Next: Model design (User, Movie, Theatre, Show)
+
+✅ User and Movie done 
+
+🟡 Next: Model design ( Theatre, Show)
